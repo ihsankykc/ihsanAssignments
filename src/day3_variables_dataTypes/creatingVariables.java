@@ -14,6 +14,8 @@ public class creatingVariables {
 		
 		price2 = 100;
 		quantity2 = 20;
+		float ondalikliSayi = 44444444444445555555555555555555555553.71232132145251453232323213212112132132132132132132132121321f;
+		System.out.println(ondalikliSayi);
 		
 		int price3=5,quantity3=50;
 		

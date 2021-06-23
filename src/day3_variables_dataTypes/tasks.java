@@ -11,6 +11,8 @@ public class tasks {
 		height=1.78;
 		weight=80;
 		System.out.println("age = "+ age + " weight = " + weight);
+		System.out.println("age times weight = "+age*weight);
+		System.out.println("age plus weight = "+(age+weight));
 		System.out.println("height = "+height);
 		
 		//task2
